@@ -1,10 +1,10 @@
 Websites are the following:
 
 
-https://cnc.zahncenternyc.com
+http://cnc.zahncenternyc.com
 
-https://electronics.zahncenternyc.com
+http://electronics.zahncenternyc.com
 
-https://3dprint.zahncenternyc.com
+http://3dprint.zahncenternyc.com
 
-https://software.zahncenternyc.com
+http://software.zahncenternyc.com
