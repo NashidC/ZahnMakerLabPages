@@ -8,3 +8,8 @@ http://electronics.zahncenternyc.com
 http://3dprint.zahncenternyc.com
 
 http://software.zahncenternyc.com
+
+
+Total Time Taken to Complete: 4 Months
+
+50% Bootstrap 50% written native code
