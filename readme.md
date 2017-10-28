@@ -12,4 +12,4 @@ http://software.zahncenternyc.com
 
 Total Time Taken to Complete: 4 Months
 
-50% Bootstrap 50% written native code
+75% Bootstrap 25% written native code
